@@ -292,7 +292,7 @@ config = {
     'update_pyappify': {
         'to_version': '1.2.3',
         'zip_url': 'https://github.com/FLuoXue/ok-wuthering-waves/releases/download/v3.8.6/wuwa-auto-win32.zip',
-        'sha256': 'f9c347570c471c2cfce98a58e02a6fb799814df36021e64fbf6849ae57b4a095',
+        'sha256': '25b50c4f728e70ffefa11ea50f1ab07285edbd855246221dc73e906f99d36cac',
     }
 
 }
